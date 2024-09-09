@@ -1,3 +1,3 @@
-# labeaudion.github.io
+# README for CS506
 
 README for CS506
